@@ -1,0 +1,9 @@
+C:\Users\knasdmd\Downloads\Utility Apps\PDFProtect\PDFProtect\bin\Debug\PDFProtect.exe.config
+C:\Users\knasdmd\Downloads\Utility Apps\PDFProtect\PDFProtect\bin\Debug\PDFProtect.exe
+C:\Users\knasdmd\Downloads\Utility Apps\PDFProtect\PDFProtect\bin\Debug\PDFProtect.pdb
+C:\Users\knasdmd\Downloads\Utility Apps\PDFProtect\PDFProtect\obj\Debug\PDFProtect.csprojResolveAssemblyReference.cache
+C:\Users\knasdmd\Downloads\Utility Apps\PDFProtect\PDFProtect\obj\Debug\PDFProtect.exe
+C:\Users\knasdmd\Downloads\Utility Apps\PDFProtect\PDFProtect\obj\Debug\PDFProtect.pdb
+C:\Users\knasdmd\Documents\My Utility Apps\PDFProtect\PDFProtect\bin\Debug\PDFProtect.exe.config
+C:\Users\knasdmd\Documents\My Utility Apps\PDFProtect\PDFProtect\obj\Debug\PDFProtect.exe
+C:\Users\knasdmd\Documents\My Utility Apps\PDFProtect\PDFProtect\obj\Debug\PDFProtect.pdb
